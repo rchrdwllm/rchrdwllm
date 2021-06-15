@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rchrdwllm
+- 👀 I’m interested in web development, software engineering, architecture, arts, and music
+- 🌱 I’m currently learning web development (and still dealing roughly with JavaScript!)
+- 📫 You can reach me on Twitter! @_uiriaaamu
