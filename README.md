@@ -5,4 +5,5 @@ I aim to be able to create great and awesome websites with focus on front-end de
 On a side note, I'm also interested in learning some back-end stuff.
 
 - 👀 I’m interested in web development, software engineering, architecture, arts, and music
-- 🌱 I’m currently learning web development (and still dealing roughly with JavaScript and React! 🥴)
+- 🌱 I’m currently learning web development
+- 📐 I want to get into learning WebGL
