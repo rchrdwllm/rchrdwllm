@@ -1,6 +1,6 @@
 # Hello, I'm @rchrdwllm! 👋
 
-I'm a software developer, 22 years old, and currently a 4th year Computer Science student!
+I'm a software developer and a Computer Science graduate!
 I aim to create interactive experiences with focus on front-end development. 
 While I do mainly enjoy the front-end side, I am also capable of full-stack work!
 
